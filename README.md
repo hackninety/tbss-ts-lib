@@ -1,5 +1,12 @@
 # tbss-ts-lib
 
+> **维护位置已迁移**：后续源码、问题反馈和独立版本发布统一位于 [common-ts-lib/packages/tbss-ts-lib](https://github.com/hackninety/common-ts-lib/tree/main/packages/tbss-ts-lib)。包名与公开接口保留，本仓库保留历史，不再作为新版本安装来源。
+>
+> 当前安装：`npm install https://github.com/hackninety/common-ts-lib/releases/download/tbss-ts-lib-v0.1.0/tbss-ts-lib-0.1.0.tgz`
+>
+> 以下为迁移前的历史说明，其中旧仓库安装命令仅供追溯；新的开发和发布流程见 [迁移说明](https://github.com/hackninety/common-ts-lib/blob/main/MIGRATION.md)。
+
+
 **铁板神数语料库**（一万二千条文十二集、十四考取数表十五张、注解精选 29 条、
 方法文献三篇）—— 结构化 TypeScript 库，纯 TS、零运行时依赖、ESM、按集分包懒加载，
 可直接被 React / Vite / Next / 纯 Node 消费。
